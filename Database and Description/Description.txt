@@ -1,0 +1,7 @@
+1. I created a WordPress plugin from scratch
+2. Events can be added by admins
+3. Every Event has a title, body (caption in my code), category(event type in my code), event date, and an image than can be resized
+4. Taxonomy: Events can be filtered by category by the user, and can be filtered by category and posting date by the admin
+5. Events can be scheduled to be posted later
+6. If the admin does not choose an event type it is automatically categorized as "uncategorized" type
+7. Short Code: please use [mycalendar_event_list] to show posts in a page
